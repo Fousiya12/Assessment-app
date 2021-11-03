@@ -1,0 +1,55 @@
+.AddForm{
+    background-color: aqua;
+    color:black;
+    text-align: center;
+    border: blue solid 2px;
+    justify-content: center;
+
+}
+.container{
+    background-color: oldlace;
+    color:blue;
+    border:solid green 2px;
+    justify-content: center;
+    text-align: center;
+    
+  }
+  .flex-large{
+    color:black;
+    justify-content: center;
+    text-align: center;
+  }
+  .buttonmutedbutton{
+    background-color: red;
+    color:white;
+    justify-content: center;
+    text-align: center;
+    border:black solid 2px;
+  }
+  .flex-row{
+    background-color:oldlace;
+    color:blue;
+    border:solid green 2px;
+    justify-content: center;
+    text-align: center;
+  }
+  .table-header{
+    background-color: aliceblue;
+    align-items: center;
+    justify-content: center;
+    font-size: medium;
+    color: blue;
+  }
+  .table-body{
+    text-align: center;
+    color:black;
+    background-color: cadetblue;
+    
+  }
+  .table{
+    color: blue;
+    text-align: center;
+    border:rgb(107, 9, 146) solid 2px;
+  }
+  
+  
